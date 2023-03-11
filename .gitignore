@@ -1,0 +1,12 @@
+ade20k/pytorch/venv
+ade20k/pytorch/.idea
+ade20k/pytorch/cifar-100
+ade20k/pytorch/ckpt
+ade20k/pytorch/pretrained
+bdd/.idea
+bdd/segnet/data
+bdd/segnet/model
+bdd/segnet/output
+bdd/segnet/videos
+
+
